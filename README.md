@@ -30,6 +30,16 @@ Currently, my primary area of expertise revolves around potable water systems, w
 - RAG (Retrieval-Augmented Generation)
 - Computer Vision
 
+### Testing
+
+- Vitest
+- Playwright
+- Storybook
+
+### Style
+
+- Tailwind
+
 ### Engineering Practices
 
 - Meticulously drafting and documenting specifications before writing code.
