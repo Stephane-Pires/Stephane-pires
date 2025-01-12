@@ -52,8 +52,7 @@ _Still curious? I’m also working on a more ambitious, closed-source project re
 ## 📨 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/stephane-pires/)
-
-  - Email: pires.stephane.pro@gmail.com
-  - [Caravel](https://caravel-mocha.vercel.app)
+- pires.stephane.pro@gmail.com
+- [Caravel](https://caravel-mocha.vercel.app)
 
   I’m eager to collaborate on projects at the intersection of technology and social good. Let’s connect and create a sustainable future together! 🌍
