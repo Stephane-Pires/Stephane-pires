@@ -1,4 +1,16 @@
-## Hi there 👋
+# WORK IN PROGRESS 👋
+
+<!-- CATCH UP SENTENCE ... -->
+
+## About Me
+
+## Technical Skills
+
+## Key projects
+
+## Professional Goals
+
+## Contact Me
 
 <!--
 **Stephane-Pires/Stephane-pires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
